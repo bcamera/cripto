@@ -23,8 +23,21 @@ As finanças descentralizadas não dependem de intermediários financeiros centr
 
 ### Uniswap
 
+* [Plataforma](https://uniswap.org/)
+
 ### 1inch
+
+* [Plataforma](https://1inch.exchange/#/)
 
 ### YearFinance
 
+* [YearnFinance](https://yearn.finance/vaults)
+
 ### SushiSwap
+
+* [Plataforma](https://www.sushi.com/)
+
+## Wallets
+
+* [Exodus - Desktop e Mobile](https://www.exodus.com/)
+* [Metamask - Navegador](https://metamask.io/) : Carteira mais utilizada pra conectar em plataformas que rodam na blockchainda ethereum e da binance smart chain.
