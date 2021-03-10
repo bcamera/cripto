@@ -16,6 +16,11 @@ As finanças descentralizadas não dependem de intermediários financeiros centr
 
 ### Pancake
 
+* [Medium](https://pancakeswap.medium.com/)
+* [Plataforma](https://pancakeswap.finance/)
+* [Calcular rendimento das pools](https://bsctools.xyz/pancakeswap/pools/)
+* [Telegram](https://t.me/PancakeSwapPortuguese) 
+
 ### Uniswap
 
 ### 1inch
