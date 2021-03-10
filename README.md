@@ -12,6 +12,7 @@ As finanças descentralizadas não dependem de intermediários financeiros centr
 * [Exchange Descentralizada](https://waves.exchange/sign-in/)
 * [Preços dos tokens listados](https://wavescap.com/)
 * [Plataforma de trocas (swap)](https://swop.fi/)
+* [Telegram](https://t.me/WavesBrasil)
 
 ### Pancake
 
