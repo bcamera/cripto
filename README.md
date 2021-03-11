@@ -3,7 +3,7 @@ Coletânea de info sobre cripto
 
 # Sumário
 
-[Como ganhar criptos](https://github.com/bcamera/cripto#)\
+[Como ganhar criptos](https://github.com/bcamera/cripto#como-ganhar-criptos)\
 [Como comprar criptos](https://github.com/bcamera/cripto#)\
 [DEFI](https://github.com/bcamera/cripto#defi)\
 [Wallets](https://github.com/bcamera/cripto#wallets)
